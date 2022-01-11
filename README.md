@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Attorn Studio](https://github.com/qafoori/attorn-studio)
 - 📫 How to reach me: 
   - Email: [qafoori.hr@gmail.com](mailto:qafoori.hr@gmail.com)
-  - Whatsapp: [(+98) 922 031 5954](https://wa.me/989220315954?text=I'm%20comming%20from%20your%20Github%20profile)
+  - Whatsapp: [(+98) 922 031 5954](https://wa.me/989220315954?text=Hello%20Hamid%2C%20I%27m%20coming%20from%20your%20Github%20profile)
   - Linkedin: [qafoori](https://www.linkedin.com/in/qafoori/)
   - StackOverflow: [qafoori](https://stackoverflow.com/users/14174769/qafoori)
 
