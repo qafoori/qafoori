@@ -11,6 +11,4 @@
   - Whatsapp: [(+98) 922 031 5954](https://wa.me/989220315954?text=Hello%20Hamid%2C%20I%27m%20coming%20from%20your%20Github%20profile)
   - Linkedin: [qafoori](https://www.linkedin.com/in/qafoori/)
   - StackOverflow: [qafoori](https://stackoverflow.com/users/14174769/qafoori)
-
-
-<a href="https://stackoverflow.com/users/14174769/qafoori"><img src="https://stackoverflow.com/users/flair/14174769.png?theme=dark" width="208" height="58" alt="profile for qafoori at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for qafoori at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  - <a href="https://stackoverflow.com/users/14174769/qafoori"><img src="https://stackoverflow.com/users/flair/14174769.png?theme=dark" width="208" height="58" alt="profile for qafoori at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for qafoori at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
