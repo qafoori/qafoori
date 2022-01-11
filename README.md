@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm a Senior PERN stack (Postgrers, Express, React, NodeJS) developer who enjoys its challenges. I have always tried to find the latest technologies in the first step, and in the second step, to choose the best ones, and finally to learn and use them. But I did not get tired of them because I was so interested in it. I enjoy teamwork a lot and I like to help others and get help from them. That's why I go to Stackoverflow a lot and try to answer the questions as much as I can. For some reason, am very, very interested in OpenSource, and am currently doing my own personal and lovable project as an OpenSource service. Am always asked what do you do in your spare time? And I answer: "When I do not have a job, I work and learn :)"
-## Languages:
+## I'm a PERN stack Developer
+#### Languages:
 `JavaScript` | `Ruby`
-## Technologies:
-`TypeScript` | `ReactJS` | `React-Native` | `ElectronJS` | `NodeJs` | `NestJS` | `PostgresSql` | `Websockets` | `GraphQL` | `Swagger` | `HTML5` | `CSS3` | `Redux` | `[Ant/Tailwind/Styled-Components/Bootstrap/Material]` | `Git` 
+#### Technologies:
+`TypeScript` | `ReactJS` | `React-Native` | `Express` | `ElectronJS` | `NodeJs` | `NestJS` | `PostgresSql` | `Websockets` | `GraphQL` | `Swagger` | `HTML5` | `CSS3` | `Redux` | `[Ant/Tailwind/Styled-Components/Bootstrap/Material]` | `Git` 
 * * *
 - 🔭 I’m currently working on [Attorn Studio](https://github.com/attorn/attorn-studio)
 - 📫 How to reach me: 
