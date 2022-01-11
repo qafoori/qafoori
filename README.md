@@ -5,7 +5,7 @@
 #### Technologies:
 `TypeScript` | `ReactJS` | `React-Native` | `Express` | `ElectronJS` | `NodeJs` | `NestJS` | `PostgresSql` | `Websockets` | `GraphQL` | `Swagger` | `HTML5` | `CSS3` | `Redux` | `[Ant/Tailwind/Styled-Components/Bootstrap/Material]` | `Git` 
 * * *
-- 🔭 I’m currently working on [Attorn Studio](https://github.com/qafoori/attorn-studio)
+- 🔭 I’m currently working on [Attorn Studio](https://github.com/qafoori/attorn-studio) && [Flairead](https://github.com/qafoori/flairead-web-app)
 - 📫 How to reach me: 
   - Email: [qafoori.hr@gmail.com](mailto:qafoori.hr@gmail.com)
   - Whatsapp: [(+98) 922 031 5954](https://wa.me/989220315954?text=Hello%20Hamid%2C%20I%27m%20coming%20from%20your%20Github%20profile)
