@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm a PERN stack Developer
 #### Languages:
-`JavaScript` | `Ruby`
+`JavaScript` | `TypeScript` | `Solidity`
 #### Technologies:
 `TypeScript` | `ReactJS` | `React-Native` | `Express` | `ElectronJS` | `NodeJs` | `NestJS` | `PostgresSql` | `Websockets` | `GraphQL` | `Swagger` | `HTML5` | `CSS3` | `Redux` | `[Ant/Tailwind/Styled-Components/Bootstrap/Material]` | `Git` 
 * * *
